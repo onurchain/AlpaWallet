@@ -1,0 +1,55 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2025 Alpa Wallet Team. All rights reserved.
+
+IMPORTANT: This software is proprietary and confidential. 
+
+TERMS AND CONDITIONS:
+
+1. OWNERSHIP
+   This software, including all source code, documentation, and associated 
+   materials (collectively, the "Software"), is the exclusive property of 
+   the Alpa Wallet development team.
+
+2. RESTRICTED ACCESS
+   This repository is provided for demonstration and portfolio purposes only.
+   The Software is made available for:
+   - Technical evaluation and assessment
+   - Educational and learning purposes
+   - Professional portfolio review
+   - Alchemy certification and verification
+
+3. PROHIBITED USES
+   You may NOT:
+   - Use the Software for commercial purposes
+   - Distribute, sublicense, or transfer the Software
+   - Modify, adapt, or create derivative works
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices or labels
+
+4. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL 
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+   DEALINGS IN THE SOFTWARE.
+
+5. TERMINATION
+   This license is effective until terminated. Your rights under this license 
+   will terminate automatically without notice if you fail to comply with any 
+   term(s) of this license.
+
+6. GOVERNING LAW
+   This license shall be governed by and construed in accordance with applicable 
+   international intellectual property laws.
+
+7. CONTACT
+   For licensing inquiries, technical questions, or permission requests, 
+   please contact the development team through appropriate professional channels.
+
+BY ACCESSING OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND 
+UNDERSTOOD THIS LICENSE AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Last Updated: January 2025
